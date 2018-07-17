@@ -29,7 +29,7 @@ function iLoveTheBeatles (times) {
     }
   }
   else {
-    arr.push('I Love the Beatles!');
+    arr = ['I Love the Beatles!'];
   }
 
   return arr;
