@@ -25,8 +25,7 @@ function iLoveTheBeatles (times) {
       arr.push ('I Love the Beatles!');
       times --;
     }
-    while (times > 0) {
-    }
+    while (times > 0);
   }
   else {
     arr = ['I Love the Beatles!'];
