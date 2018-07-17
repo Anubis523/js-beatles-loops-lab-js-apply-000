@@ -23,9 +23,9 @@ function iLoveTheBeatles (times) {
   if (times < 15) {
      do {
       arr.push ('I Love the Beatles!');
+      times --;
     }
     while (times > 0) {
-      times --;
     }
   }
   else {
