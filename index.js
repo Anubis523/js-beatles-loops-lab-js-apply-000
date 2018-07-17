@@ -19,12 +19,12 @@ function johnLennonFacts (facts) {
 }
 
 function iLoveTheBeatles (times) {
-  let arr = []
+  let arr = [];
   if (times < 15) {
      do {
-      arr.push ('I Love the Beatles!')
+      arr.push ('I Love the Beatles!');
     }
-    while (times > 0){
+    while (times > 0) {
       times --;
     }
   }
